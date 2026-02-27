@@ -1,0 +1,17 @@
+a=10;
+print(a);
+print("----------------")
+b=10.5;
+print(b);
+print("----------------")
+c='a';
+print(c);
+print("----------------")
+d="python";
+print(d);
+print("----------------")
+e=True;
+print(e);
+print("----------------")
+f=10+2j;
+print(f);
