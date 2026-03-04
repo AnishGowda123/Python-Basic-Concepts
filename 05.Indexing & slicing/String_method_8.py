@@ -1,0 +1,17 @@
+s="python "
+s1="pyt123 "
+m1=s.isspace()
+m2=s1.isspace()
+print(m1)
+print(m2)
+print("------------------------------")
+m3=s.isprintable()
+m4=s1.isprintable()
+print(m3)
+print(m4)
+print("------------------------------")
+m5=s.isidentifier()
+m6=s1.isidentifier()
+print(m5)
+print(m6)
+print("------------------------------")
